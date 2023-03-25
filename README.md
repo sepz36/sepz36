@@ -99,6 +99,6 @@ Skills: HTML / CSS
 ---
 
 <br>
-Credit: [Bgstatic](https://github.com/Bgstatic)
+Credit: [Bgstatic](https://github.com/sepz36)
 
 Last Edited on: 26/03/2023
