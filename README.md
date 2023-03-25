@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Azam Azman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Sepriyandi bin Agusr </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Network+Security+Student,;A+Newbie,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
@@ -14,8 +14,8 @@
 
 - 2nd year in UTMKL 
 - Course Network & Security
-- Work Inland Revenue Board 
-- Work Field Administration system
+- Work In Perbadanan Putrajaya
+- Work Field Assistance Officer information of Technology
 - Like to learn new stuf
 
 
