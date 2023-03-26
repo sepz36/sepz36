@@ -20,68 +20,36 @@
 - Work Field Assistance Officer information of Technology
 - Like to learn new stuf
 
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 -----
-
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
-
 	
 [![Sepriyandi Agusr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepz36)](https://github.com/sepz36/github-readme-stats)![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
 
 Skills: HTML / CSS
   
-
 </a>
 </div>
-
 <br>
-<br>
-
------
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/sepriyandi-agusr-a736bb240/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Sepz Agusr-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://www.facebook.com/sepz.yasuo" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-sepz36-%23E4405F?color=405DE6&style=for-the-badge&logo=facebook&logoColor=white"alt="Facebook">
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:sp-sepriyandi.agusr@graduate.utm.my" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Sepz Agusr-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
+<!-- CONNECTION -->     
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sepriyandi-agusr-a736bb240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sepriyandi-agusr-a736bb240" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/sepz.yasuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sepz.yasuo" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sepzyasuo/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sepzyasuo" height="30" width="40" /></a> 
+<br> <br>
+	<a href="mailto:sp-sepriyandi.agusr@graduate.utm.my" target="blank"><img src="https://img.shields.io/badge/gmail:  Sepz Agusr-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 <div align='center'>
 
@@ -90,9 +58,7 @@ Skills: HTML / CSS
 </div>
 <br>
 
----
-
 <br>
-Credit: [Bgstatic](https://github.com/sepz36)
+Credit: [sepz36](https://github.com/sepz36)
 
 Last Edited on: 26/03/2023
