@@ -1,3 +1,6 @@
+
+![sepz profile](https://user-images.githubusercontent.com/117615804/227748601-0686b2de-7510-4386-9afa-74740795dbf4.gif)</a>
+	
 <h1><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" align="center"><b>Hi , I'm Sepriyandi bin Agusr </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
