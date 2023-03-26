@@ -35,7 +35,7 @@
 <div align="center">
 
 	
-[![Sepriyandi Agusr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepz36)](https://github.com/sepz36/github-readme-stats)
+[![Sepriyandi Agusr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepz36)](https://github.com/sepz36/github-readme-stats)![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
 
 Skills: HTML / CSS
   
